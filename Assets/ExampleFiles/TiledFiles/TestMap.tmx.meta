@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 73637c9157ab82b4a8dba4468dcf895f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors: []
+  warnings:
+  - Pixels Per Unit mismatch between map (100) and tileset 'Zoria Tileset/water.tsx'
+    (1)
+  - Pixels Per Unit mismatch between map (100) and tileset 'Zoria Tileset/tiles.tsx'
+    (1)
+  - Pixels Per Unit mismatch between map (100) and tileset 'Zoria Tileset/overhead-objects.tsx'
+    (1)
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 18
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 3
+  tilesAsObjects: 0
+  sortingMode: 1
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
